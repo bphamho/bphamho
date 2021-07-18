@@ -19,11 +19,11 @@ I'm a Computer Science student from UNSW graduating in 2021, with foundations in
 
 **Some websites I worked on:**
 
-https://spreadthebutter.geoffreychen.me/:
+https://spreadthebutter.geoffreychen.me/: **[Link](https://spreadthebutter.geoffreychen.me/)**
 - Built with Python Django Framework for backend and Bootstrap for styling the frontend
 - Collaborated with 5 other people
 
-https://hackathonbdtr.herokuapp.com/: **[Github Link](https://github.com/bphamho/hackathon-bdtr/)**
+https://hackathonbdtr.herokuapp.com/:**[Link](https://hackathonbdtr.herokuapp.com/), [Github Link](https://github.com/bphamho/hackathon-bdtr/)**
 - UNSW CSESOC 2021 Annual Hackathon
 - Also built with Python Django Framework for backend and Bootstrap for styling the frontend
 - Collaborated with 3 other friends
