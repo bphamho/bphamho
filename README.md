@@ -23,7 +23,7 @@ https://spreadthebutter.geoffreychen.me/: **[Link](https://spreadthebutter.geoff
 - Built with Python Django Framework for backend and Bootstrap for styling the frontend
 - Collaborated with 5 other people
 
-https://hackathonbdtr.herokuapp.com/:**[Link](https://hackathonbdtr.herokuapp.com/), [Github Link](https://github.com/bphamho/hackathon-bdtr/)**
+https://hackathonbdtr.herokuapp.com/: **[Link](https://hackathonbdtr.herokuapp.com/), [Github Link](https://github.com/bphamho/hackathon-bdtr/)**
 - UNSW CSESOC 2021 Annual Hackathon
 - Also built with Python Django Framework for backend and Bootstrap for styling the frontend
 - Collaborated with 3 other friends
