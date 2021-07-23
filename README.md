@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hi there! I'm Benjamin Pham Ho</h3>
+<h3 align="center">👋 Hi there! I'm Benjamin Pham Ho 😊</h3>
 <p align="center">
   <a href="https://github.com/bphamho">GitHub</a>
   <br>
