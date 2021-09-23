@@ -9,10 +9,10 @@
 </p>
 
 ---
-I'm a Computer Science student from UNSW graduating in 2021, with foundations in different programming languages such as **C, C++, Java, Python, HTML, C++, Javascript and SQL**.
+I'm a Computer Science student from UNSW graduating in 2021, with foundations in different programming languages such as **C, C++, Java, Python, HTML, CSS, Javascript and SQL**.
 
 - 👀 I’m interested in everything tech related in the world
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently expanding my front-end knowledge
 - 📫 How to reach me:
 **[LinkedIn](https://www.linkedin.com/in/benjamin-pham-ho)**
 <br>
