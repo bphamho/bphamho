@@ -9,7 +9,7 @@
 </p>
 
 ---
-I'm a Computer Science student from UNSW graduating in 2021, with foundations in different programming languages such as **C, C++, Java, Python, HTML, CSS, Javascript and SQL**.
+I'm a Software Test Engineer and a Computer Science Graduate of 2021.
 
 - 👀 I’m interested in everything tech related in the world
 - 🌱 I’m currently expanding my front-end knowledge
